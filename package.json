@@ -1,0 +1,39 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "homepage": "https://sibiraj-19.github.io/StudentDatabse",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "react-scripts build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "concurrently \"npm run start-react\" \"npm run start-json-server-1\" \"npm run start-json-server-2\"",
+    "start-react": "react-scripts start",
+    "start-json-server-1": "json-server --watch db.json --port 3000",
+    "start-json-server-2": "json-server --watch user.json --port 3002"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "json-server": "^1.0.0-beta.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.3",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.24.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.2.0"
+  }
+}

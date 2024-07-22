@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": "366b",
+      "name": "Sowmiya",
+      "email": "sowmiyaselvam200312@gmail.com",
+      "password": "Sibi@2003"
+    },
+    {
+      "id": "09fb",
+      "name": "Sibiraj D",
+      "email": "sibi7257@gmail.com",
+      "password": "Sibi@2003"
+    },
+    {
+      "id": "6140",
+      "name": "sham",
+      "email": "josephsamuvel@gmail.com",
+      "password": "Sham@2002"
+    },
+    {
+      "id": "9a51",
+      "name": "Bharathraj",
+      "email": "bharathrajvel08@gmail.com",
+      "password": "Bharath@2003"
+    },
+    {
+      "id": "3e43",
+      "name": "Pradeep",
+      "email": "pradeepkumar23@gmail.com",
+      "password": "Pradeep@2003"
+    },
+    {
+      "id": "fe20",
+      "name": "j SIBIRAJ",
+      "email": "bharathrajvel08@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1300",
+      "name": "Preetha",
+      "email": "preetha@gmail.com",
+      "password": "Preetha"
+    },
+    {
+      "id": "1d36",
+      "name": "Prasanna",
+      "email": "prasanna@gmail.com",
+      "password": "prasanna"
+    }
+  ]
+}

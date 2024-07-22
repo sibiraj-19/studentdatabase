@@ -1,0 +1,48 @@
+#content{
+    width: 90%;
+    margin-top: 5%;
+ .card-body{   
+ .th{
+   background-color: #757571;
+ }
+ .student{
+   background-color: #b0aba0;
+   font-size: large;
+}
+}}
+
+#addfile{
+   margin-top: 5%;
+}
+#card{
+   background-image: linear-gradient( #272f31fa, #c0c7c9);   
+
+}
+#add ,#card-read,#edit{
+   background-image: linear-gradient( #9fa2a3,#484d4d,#201f1f);  
+   box-shadow: 17px 17px 15px  black;
+   border-radius: 20px ;
+}
+#card-read{
+   background-image: linear-gradient( #9fa2a3,#484d4d,#201f1f);  
+   width:auto;
+}
+#read,#update,#back,#delete{
+   width: 100px;
+   border: 2px solid #282f33;
+}
+#read:hover,#update:hover,#back:hover,#delete:hover{
+   transform: scale(0.9);}
+#read{
+   background-color: 	#708090
+}
+#update{
+   background-color: #536872;
+}
+#back{
+   background-color: #36454f;
+}
+
+#span{
+   width:150px
+}

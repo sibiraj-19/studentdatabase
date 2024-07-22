@@ -1,0 +1,60 @@
+{
+  "Student": [
+    {
+      "id": "3",
+      "name": "Sibi",
+      "email": "23@gmail.com",
+      "phone": "882592522",
+      "fees": 29000,
+      "paid": "26000"
+    },
+    {
+      "id": "5",
+      "name": "Sibi Dhavamani",
+      "email": "kumar23@gmil.com",
+      "phone": "8825925027",
+      "fees": 29000,
+      "paid": 20000
+    },
+    {
+      "id": "6",
+      "name": "Sibiraj Dhavamani",
+      "email": "sibi@gmail.com",
+      "phone": "8825027",
+      "fees": 29000,
+      "paid": 20000
+    },
+    {
+      "id": "88b4",
+      "name": "Naveen",
+      "email": "Naveen@gmail.com",
+      "phone": "8825925027",
+      "fees": "300000",
+      "paid": "7890"
+    },
+    {
+      "id": "a7cb",
+      "name": "Sibi raj",
+      "email": "sibi7257@gmail.com",
+      "phone": "8825925027",
+      "fees": "79890",
+      "paid": "67890"
+    },
+    {
+      "id": "02d1",
+      "name": "sowmiya",
+      "email": "sowmiyaselvam200312@gmail.com",
+      "phone": "8870799897",
+      "fees": "330000",
+      "paid": "30000"
+    },
+    {
+      "id": "e0ae",
+      "name": "pradeep",
+      "email": "pradeep123@gmail.com",
+      "phone": "9876543211",
+      "fees": "290000",
+      "paid": "290000"
+    }
+  ]
+}
